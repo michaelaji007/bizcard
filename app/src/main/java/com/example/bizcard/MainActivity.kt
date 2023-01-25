@@ -77,7 +77,7 @@ Spacer(  modifier = Modifier.weight(1f))
                    color = Color.Gray
                )
                RowWidget(
-                   text= "+111-2343-344",
+                   text= "+111-2343-3484",
                    icon= Icons.Default.Phone
 
                )
